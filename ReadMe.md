@@ -1,8 +1,6 @@
 # Breeze AlphaBlack
 
-Breeze Light theme with minor improvements and a black panel/titlebar.
-
-https://store.kde.org/p/1084931/
+Breeze theme with minor improvements and a black panel/titlebar.
 
 ## Screenshots
 
@@ -23,7 +21,7 @@ https://store.kde.org/p/1084931/
 
 v10 introduced an accompanying widget to easily change the theme's accent color, panel opacity, or change the taskbar to look a bit more like Windows 10.
 
-You can [download the widget here](https://store.kde.org/p/1237963/), or install it via the GUI:
+You can [download the widget here](https://github.com/dhruv8sh/plasma-applet-alphablackcontrol), or install it via the GUI:
 
 1. Right click the Panel > Add Widgets
 2. Get New Widgets > Download
