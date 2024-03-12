@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "zrenfire@gmail.com",
+                "Name": "KDE Visual Design Group + Zren"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "Description": "A semi-transparent black theme based on top of the default Breeze theme.",
+        "EnabledByDefault": true,
+        "Id": "breeze-alphablack",
+        "License": "LGPL",
+        "Name": "Breeze AlphaBlack",
+        "Version": "20",
+        "Website": "https://github.com/Zren/breeze-alphablack"
+    },
+    "X-Plasma-API": "6.0",
+    "KPackageStructure": "Plasma/LookAndFeel"
+}
