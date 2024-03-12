@@ -2,10 +2,6 @@
 
 Breeze theme with minor improvements and a black panel/titlebar.
 
-## Screenshots
-
-![](https://cdn.pling.com/img/f/1/e/1/7f50888757a024f34ef3906c0948817605b3.png)
-
 ## Install
 
 * System Settings > Desktop Theme
